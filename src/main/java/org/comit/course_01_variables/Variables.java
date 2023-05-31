@@ -10,10 +10,16 @@ public class Variables {
 		 * 1. Variable declaration
 		 * 2. Variable initialization
 		 */
-		int num = 5;
+		
+		/*
+		 * Integer Variables
+		 */
+		int num = 6;
 		
 		System.out.println("The value is: " + num);
 
 	}
 
 }
+
+	
